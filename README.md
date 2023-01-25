@@ -11,5 +11,5 @@
 
 [Project 3: Invetigating tmdb movies dataset](https://github.com/MarshalRuzvidzo/tmdb-movies-Analyis/blob/main/README.md)
 * This project was part of my Udacity Data Analyst Nanodegree program
-* THe project investigate the characteristics of popular movies since 1960
-* THe project analyses the directors, casts,budgets,revenues and producing companies for the top movies in an attempt to understand factors that make  movies popular
+* THe project investigated the characteristics of popular movies since 1960
+* THe project analyses the directors, casts,budgets,revenues and producing companies for the top rated movies in an attempt to understand factors that make  movies popular
